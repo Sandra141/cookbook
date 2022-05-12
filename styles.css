@@ -10,8 +10,8 @@
 #header-logo {
     height: 80px;
 }
-.jumbotron {
-    height: 500px;
+#jumbotron {
+    height: 600px;
 }
 .card {
     margin: 20px auto;
